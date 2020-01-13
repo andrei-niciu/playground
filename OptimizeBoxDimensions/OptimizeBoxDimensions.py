@@ -1,7 +1,4 @@
-# This python script is aiming at solving the problem mentioned at the link below (optimizing box dimensions to match given required volume) using the methods described at the link
-# https://towardsdatascience.com/optimization-with-scipy-and-application-ideas-to-machine-learning-81d39c7938b8
-
-# The problem:
+# Solving the optimium box dimensions problem mentioned at https://towardsdatascience.com/optimization-with-scipy-and-application-ideas-to-machine-learning-81d39c7938b8)
 # Given an open-top box with square bottom and rectangular sides, having volume of 256, find the dimensions that minimize the surface of the box (the 5 sides)
 
 import numpy as np
